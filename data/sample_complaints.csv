@@ -1,0 +1,161 @@
+complaint_text,category,sentiment,priority
+The bus was delayed by 30 minutes at Swargate during morning peak hours,Delay,Negative,High
+Bus service arrived 15 minutes late at the Deccan bus stop,Delay,Negative,Medium
+Long delay waiting because the scheduled bus did not arrive on time,Delay,Negative,High
+The bus was delayed by 25 minutes due to heavy traffic on Katraj road,Delay,Negative,Medium
+Bus schedule was delayed by 40 minutes leaving passengers waiting at shelter,Delay,Negative,High
+Morning bus was delayed by 20 minutes causing passengers to miss connection,Delay,Negative,High
+Bus arrived late by 10 minutes at Hadapsar due to signal failure,Delay,Neutral,Medium
+Significant delay of 35 minutes on the Hinjewadi bus route,Delay,Negative,High
+Evening transit bus was delayed by 15 minutes at Pune Station,Delay,Negative,Medium
+Frequent bus delays on route 111 disrupt daily commute for passengers,Delay,Negative,High
+Bus arrived on time today at Shivajinagar and the trip was very smooth,Delay,Positive,Low
+Timely bus arrival on the BRT corridor with zero delay reported,Delay,Positive,Low
+The scheduled bus arrived promptly on time for the morning trip,Delay,Positive,Low
+Punctual bus departure from depot made the journey convenient,Delay,Positive,Low
+Bus came on time today and reached destination without delay,Delay,Positive,Low
+Minor 5 minute delay at Nal stop but driver reached on time,Delay,Neutral,Low
+Schedule timing delayed by 15 minutes for the Kothrud depot service,Delay,Negative,Medium
+Expected bus delayed by 30 minutes without any announcement,Delay,Negative,High
+Bus missed the scheduled arrival time by 20 minutes at Corporation stop,Delay,Negative,Medium
+Bus arrived 12 minutes late at terminal due to road repair works,Delay,Negative,Medium
+The bus was completely packed and overcrowded so passengers could not board,Overcrowding,Negative,High
+Too many people standing in the overcrowded bus with barely space to move,Overcrowding,Negative,High
+Severe overcrowding on the bus with passengers dangerously on footboard,Overcrowding,Negative,High
+The bus was packed to full capacity leaving commuters stranded at stop,Overcrowding,Negative,High
+Heavy rush and overcrowding inside the bus made reaching exit difficult,Overcrowding,Negative,Medium
+Overcrowded bus during rush hour with passengers pushed near the doors,Overcrowding,Negative,High
+Bus was completely full and overcrowded bypassing waiting commuters,Overcrowding,Negative,High
+Excessive passenger crowd on the bus requires urgent extra service,Overcrowding,Negative,High
+Dangerous overcrowding inside the bus prevented doors from closing properly,Overcrowding,Negative,High
+Morning bus was excessively crowded and packed like sardines,Overcrowding,Negative,High
+There was plenty of room in the bus and boarding was very comfortable,Overcrowding,Positive,Low
+Spacious bus interior with ample vacant seats and peaceful commute,Overcrowding,Positive,Low
+Bus had light passenger crowd and everyone found a comfortable seat,Overcrowding,Positive,Low
+Enjoyed a relaxing ride with no overcrowding and plenty of open seats,Overcrowding,Positive,Low
+Comfortable journey with low crowd and easy boarding at Shivajinagar,Overcrowding,Positive,Low
+Moderate crowd inside the bus but managed well with enough space,Overcrowding,Neutral,Low
+Standard passenger occupancy on the bus during afternoon hours,Overcrowding,Neutral,Low
+Overcrowding in the bus aisle made moving around uncomfortable,Overcrowding,Negative,Medium
+Crowd levels were normal and seating was easily available on bus,Overcrowding,Neutral,Low
+Bus was moderately crowded during evening rush but bearable,Overcrowding,Neutral,Medium
+The driver spoke extremely rudely when asked about the bus stop,Driver/Staff Behaviour,Negative,High
+The conductor was very rude and shouted aggressively at a passenger,Driver/Staff Behaviour,Negative,High
+Conductor ignored my polite question about the ticket fare with rude attitude,Driver/Staff Behaviour,Negative,Medium
+Driver behaved aggressively and used harsh disrespectful language,Driver/Staff Behaviour,Negative,High
+Staff member at bus enquiry counter was dismissive and extremely rude,Driver/Staff Behaviour,Negative,Medium
+The driver refused to stop and spoke arrogantly to waiting passengers,Driver/Staff Behaviour,Negative,High
+Conductor was arguing rudely with commuters over loose coin change,Driver/Staff Behaviour,Negative,High
+Unprofessional behavior by conductor who insulted an elderly commuter,Driver/Staff Behaviour,Negative,High
+Staff member showed rude behavior and refused to assist with directions,Driver/Staff Behaviour,Negative,Medium
+Driver slammed the door on a passenger with hostile and rude conduct,Driver/Staff Behaviour,Negative,High
+"The driver was very polite, courteous, and waited for running passengers",Driver/Staff Behaviour,Positive,Low
+Conductor was remarkably helpful and patiently assisted an elderly person,Driver/Staff Behaviour,Positive,Low
+Staff member kindly guided commuters and answered questions with respect,Driver/Staff Behaviour,Positive,Low
+Friendly conductor greeted commuters and issued tickets very politely,Driver/Staff Behaviour,Positive,Low
+Driver demonstrated exemplary patience and polite behavior throughout,Driver/Staff Behaviour,Positive,Low
+Staff assisted a disabled passenger with great empathy and politeness,Driver/Staff Behaviour,Positive,Low
+Courteous staff behavior made the journey pleasant and stress free,Driver/Staff Behaviour,Positive,Low
+Conductor politely explained the route map and transit stages,Driver/Staff Behaviour,Positive,Low
+"Driver maintained a calm, respectful demeanor despite heavy traffic",Driver/Staff Behaviour,Positive,Low
+Helpful crew ensured smooth communication and polite assistance,Driver/Staff Behaviour,Positive,Low
+The bus floor was dirty and the seats had rubbish and litter everywhere,Cleanliness,Negative,High
+Foul smell and dirty condition inside the poorly maintained bus,Cleanliness,Negative,High
+The bus was dirty with food waste and empty wrappers on the floor,Cleanliness,Negative,Medium
+Seats were covered with dirt and dust making clothes soiled,Cleanliness,Negative,Medium
+Tobacco stains and filthy grab handles inside the uncleaned bus,Cleanliness,Negative,High
+Disgusting garbage and dirty trash piled under the passenger seats,Cleanliness,Negative,High
+"The bus interior was muddy, dirty, and smelled of foul garbage",Cleanliness,Negative,High
+Sticky dirty handrails and unwashed windows inside the old bus,Cleanliness,Negative,Medium
+Cockroaches and dirt spotted inside the unhygienic dirty vehicle,Cleanliness,Negative,High
+Seats were dirty and stained with unpleasant odor throughout bus,Cleanliness,Negative,Medium
+"The vehicle was clean, spotless, and comfortable to travel in today",Cleanliness,Positive,Low
+Immaculately clean and sanitized bus interior with neat seats,Cleanliness,Positive,Low
+Bus was washed cleanly with spotless floor and tidy seating area,Cleanliness,Positive,Low
+Very hygienic clean bus with polished handrails and pleasant smell,Cleanliness,Positive,Low
+Fresh and clean vehicle interior made the morning commute pleasant,Cleanliness,Positive,Low
+Appreciate the high cleanliness standards and spotless bus seats,Cleanliness,Positive,Low
+Tidy and sanitized bus with dust free seats and clean aisle,Cleanliness,Positive,Low
+Clean and comfortable passenger cabin maintained by depot staff,Cleanliness,Positive,Low
+Neat and well maintained clean seating environment on the new bus,Cleanliness,Positive,Low
+Impressed by the vehicle cleanliness and fresh fragrance inside,Cleanliness,Positive,Low
+The bus skipped my scheduled stop at Deccan without stopping,Route/Stop Issue,Negative,High
+The route display board on the bus showed the incorrect destination,Route/Stop Issue,Negative,Medium
+Bus took an unexpected route diversion and bypassed scheduled stops,Route/Stop Issue,Negative,High
+Driver did not halt at designated bus stop despite passengers signaling,Route/Stop Issue,Negative,High
+The bus bypassed three major route stops leaving commuters stranded,Route/Stop Issue,Negative,High
+Front route board did not match the actual route the bus was running on,Route/Stop Issue,Negative,Medium
+Driver skipped the Swargate stop forcing passengers to walk back,Route/Stop Issue,Negative,High
+Bus route display was blank and passengers were confused about stops,Route/Stop Issue,Negative,Medium
+Unauthorized route shortcut taken by driver bypassing passenger stops,Route/Stop Issue,Negative,High
+Driver refused to halt at alight stop despite passenger bell ringing,Route/Stop Issue,Negative,High
+The bus stop was clearly marked with accurate route timetable board,Route/Stop Issue,Positive,Low
+Clear electronic route display and prompt announcements for each stop,Route/Stop Issue,Positive,Low
+Bus followed the exact scheduled route and stopped at every stop,Route/Stop Issue,Positive,Low
+Proper route navigation with all designated transit stops served well,Route/Stop Issue,Positive,Low
+Accurate route indicators made identifying the right bus stop easy,Route/Stop Issue,Positive,Low
+Well marked bus stop shelter with clear route map information,Route/Stop Issue,Positive,Low
+Bus arrived at the correct stop with clear destination signage,Route/Stop Issue,Positive,Low
+Please add a permanent bus stop near the hospital on this route,Route/Stop Issue,Neutral,Medium
+Kindly provide an additional request stop on the university route,Route/Stop Issue,Neutral,Low
+Query regarding the new route number and intermediate stop stages,Route/Stop Issue,Neutral,Low
+The ticket machine charged me twice on UPI for a single bus ticket,Fare/Ticketing,Negative,High
+Conductor gave wrong change for ticket and refused to return balance,Fare/Ticketing,Negative,High
+Electronic ticketing machine failed and conductor gave no ticket receipt,Fare/Ticketing,Negative,High
+Conductor refused online payment and demanded cash for the bus ticket,Fare/Ticketing,Negative,Medium
+Overcharged passenger by demanding ten rupees above official ticket fare,Fare/Ticketing,Negative,High
+Smart card pass scanner deducted double ticket fare on single tap,Fare/Ticketing,Negative,High
+Ticket dispenser device broke down delaying ticket issuance for commuters,Fare/Ticketing,Negative,Medium
+Conductor charged adult ticket fare for student with valid travel pass,Fare/Ticketing,Negative,Medium
+Dispute over bus ticket fare because conductor pocketed remaining change,Fare/Ticketing,Negative,High
+Ticket machine ran out of paper roll and passengers traveled without ticket,Fare/Ticketing,Negative,Medium
+The fare was clear and digital QR payment for ticket worked smoothly,Fare/Ticketing,Positive,Low
+Transparent ticket fare deduction with instant digital paper ticket,Fare/Ticketing,Positive,Low
+Quick ticket issuance by conductor and exact balance returned promptly,Fare/Ticketing,Positive,Low
+Seamless ticketing experience using mobile app and digital pass reader,Fare/Ticketing,Positive,Low
+Convenient smart card tap payment for ticket at the entrance door,Fare/Ticketing,Positive,Low
+Clear ticket printout with exact fare details and stage distance,Fare/Ticketing,Positive,Low
+Fast and courteous ticket issuance with proper fare change returned,Fare/Ticketing,Positive,Low
+Please clarify revised bus ticket fare rates and monthly pass prices,Fare/Ticketing,Neutral,Low
+Inquiry regarding student concession fare and daily ticket rules,Fare/Ticketing,Neutral,Low
+General question about ticket pricing for children on AC bus route,Fare/Ticketing,Neutral,Low
+The bus was driven dangerously fast through traffic and jumped red lights,Safety,Negative,High
+I felt unsafe because the bus door stayed wide open while moving at speed,Safety,Negative,High
+Driver was speeding recklessly near Katraj ghat endangering passengers,Safety,Negative,High
+A passenger slipped and fell because driver accelerated before boarding,Safety,Negative,High
+Bus brakes were failing and screeching loudly creating extreme panic,Safety,Negative,High
+Driver was using mobile phone while steering the speeding crowded bus,Safety,Negative,High
+Broken handrail near the door is loose and presents severe safety hazard,Safety,Negative,High
+Emergency exit door on the bus was jammed and locked shut,Safety,Negative,High
+Rash dangerous driving on the wrong side of the road by the bus driver,Safety,Negative,High
+Severely worn out bald tyres on the bus pose severe safety accident risk,Safety,Negative,High
+The driver followed all traffic safety rules carefully and I felt safe,Safety,Positive,Low
+Disciplined safe driving with smooth braking and alert precautions,Safety,Positive,Low
+Careful defensive driving maintained during heavy monsoon rainstorm,Safety,Positive,Low
+Safety instructions were clear and emergency doors were fully functional,Safety,Positive,Low
+Reassuring and safe journey with driver adhering to speed restrictions,Safety,Positive,Low
+Smooth and safe ride with excellent road discipline by the driver,Safety,Positive,Low
+Pleased with the high safety standards and cautious transit driving,Safety,Positive,Low
+First aid safety kit was properly inspected and available on board,Safety,Positive,Low
+Side mirror was broken leaving a dangerous blind spot for safety,Safety,Negative,Medium
+Minor jerk during sudden braking at pedestrian crossing,Safety,Neutral,Medium
+I would like information about lost property left on the morning bus,Other,Neutral,Medium
+"Left my bag on route 11 bus, where is the central lost property office",Other,Neutral,Medium
+Please share an official update regarding monthly pass renewal counter,Other,Neutral,Low
+"Forgot spectacles case on the bus, kindly guide me to lost items desk",Other,Neutral,Low
+I have a general inquiry about weekend transit timings and timetables,Other,Neutral,Low
+Request customer care helpline contact details for Pune transit queries,Other,Neutral,Low
+General feedback regarding the user interface of transit mobile app,Other,Neutral,Low
+Question regarding luggage allowance rules and baggage weight limits,Other,Neutral,Low
+"Lost important office files on the bus, please help track lost folder",Other,Neutral,High
+Where can I submit a general enquiry regarding senior citizen bus pass,Other,Neutral,Low
+"Thank you for the helpful, reliable, and convenient transit service",Other,Positive,Low
+"The journey was pleasant, convenient, and comfortable throughout",Other,Positive,Low
+Commending Pune transit for introducing modern electric feeder buses,Other,Positive,Low
+Appreciation for the prompt response from customer support team,Other,Positive,Low
+Great initiative in improving public transport connectivity in the city,Other,Positive,Low
+Grateful for the dedicated bus services that make daily travel easy,Other,Positive,Low
+Positive remarks on overall transit efficiency and affordable commute,Other,Positive,Low
+Dependable transit network supporting thousands of daily passengers,Other,Positive,Low
+Overall satisfactory travel experience with city bus transport system,Other,Positive,Low
+Appreciating the reliable and prompt bus services across the city,Other,Positive,Low
