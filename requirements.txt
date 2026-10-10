@@ -1,0 +1,7 @@
+# Core runtime dependencies for Pune Transit Complaint Analyzer
+# Tested on Python 3.10 - 3.14 on Streamlit Community Cloud & local environments
+streamlit>=1.35.0,<2.0.0
+pandas>=2.1.0,<3.0.0
+scikit-learn>=1.4.0,<2.0.0
+matplotlib>=3.8.0,<4.0.0
+numpy>=1.26.0,<3.0.0
